@@ -1,3 +1,4 @@
 # Bootstrap components
 org.springframework.cloud.bootstrap.BootstrapConfiguration=\
-com.client.springbootcloudclient.environment.MyEnvironment
+com.client.springbootcloudclient.environment.MyEnvironment,\
+com.client.springbootcloudclient.environment.MyApplicationContextInitializer
